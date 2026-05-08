@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- Visitor counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shiwangisinha&label=Profile+Visits&color=c45e9e&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Sinha-Codes3579&label=Profile+Visits&color=c45e9e&style=flat"/>
 </p>
 
 <!-- Tagline -->
@@ -64,14 +64,75 @@ Here are some ideas to get you started:
 
 ## ✦ featured projects
 
-| Project | Stack | About |
-|---|---|---|
-| 🌐 Portfolio Resume Builder | React.js, TypeScript, PostgreSQL, Node.js, Gemini AI | Personal dev portfolio with resume builder & AI/ML powered enhancements |
-| 🩺 Anaemia Detection via Nail-bed | PyTorch, TensorFlow, YOLOv8, EfficientNet, OpenVINO | End-to-end ML pipeline for medical diagnosis — 92% accuracy |
-| 🧬 Hybrid HS-PSO Feature Selection | Python, SVM, Optimization Algorithms | Hybrid optimization model for cancer prediction — 77% accuracy |
-| 🏗 Multi-Tenant SaaS Platform | Java, Spring Boot, JWT, MySQL, ReactJS | Multi-tenant backend with DB-per-tenant isolation, JWT auth & RBAC |
-| 🔗 Product Matching Pipeline | Python, FastAPI, MongoDB, TypeScript | Automated matching system for high-dimensional product data |
-| 📈 Time-Series Forecasting | Python, ARIMA, Prophet, LSTM, Pandas | Compared statistical & deep learning forecasting architectures |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Portfolio Resume Builder</h3>
+      <p>Personal dev portfolio with resume builder & AI/ML powered enhancements via Gemini AI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React.js-e6f1fb?style=flat-square&logo=react&logoColor=185fa5"/>
+        <img src="https://img.shields.io/badge/TypeScript-e6f1fb?style=flat-square&logo=typescript&logoColor=185fa5"/>
+        <img src="https://img.shields.io/badge/Node.js-e4f5ee?style=flat-square&logo=nodedotjs&logoColor=2e7d5a"/>
+        <img src="https://img.shields.io/badge/Gemini%20AI-ede8fe?style=flat-square&logo=google&logoColor=6b4fb8"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🩺 Anaemia Detection via Nail-bed</h3>
+      <p>End-to-end ML pipeline for medical image diagnosis — <b>92% accuracy</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-fef0e8?style=flat-square&logo=pytorch&logoColor=b05a30"/>
+        <img src="https://img.shields.io/badge/YOLOv8-ede8fe?style=flat-square&logo=yolo&logoColor=6b4fb8"/>
+        <img src="https://img.shields.io/badge/TensorFlow-fef0e8?style=flat-square&logo=tensorflow&logoColor=b05a30"/>
+        <img src="https://img.shields.io/badge/OpenVINO-fce8f5?style=flat-square&logo=intel&logoColor=c45e9e"/>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧬 Hybrid HS-PSO Feature Selection</h3>
+      <p>Hybrid optimization model for cancer prediction via dimensionality reduction — <b>77% accuracy</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-fce8f5?style=flat-square&logo=python&logoColor=c45e9e"/>
+        <img src="https://img.shields.io/badge/SVM-ede8fe?style=flat-square&logo=scikitlearn&logoColor=6b4fb8"/>
+        <img src="https://img.shields.io/badge/Optimization%20Algorithms-e4f5ee?style=flat-square&logoColor=2e7d5a"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏗 Multi-Tenant SaaS Platform</h3>
+      <p>Backend with DB-per-tenant isolation, JWT authentication & role-based access control.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-fef0e8?style=flat-square&logo=openjdk&logoColor=b05a30"/>
+        <img src="https://img.shields.io/badge/Spring%20Boot-e4f5ee?style=flat-square&logo=springboot&logoColor=2e7d5a"/>
+        <img src="https://img.shields.io/badge/JWT-fce8f5?style=flat-square&logo=jsonwebtokens&logoColor=c45e9e"/>
+        <img src="https://img.shields.io/badge/MySQL-e6f1fb?style=flat-square&logo=mysql&logoColor=185fa5"/>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔗 Product Matching Pipeline</h3>
+      <p>Automated product matching backend for high-dimensional input data using NoSQL.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-fce8f5?style=flat-square&logo=python&logoColor=c45e9e"/>
+        <img src="https://img.shields.io/badge/FastAPI-e4f5ee?style=flat-square&logo=fastapi&logoColor=2e7d5a"/>
+        <img src="https://img.shields.io/badge/MongoDB-e4f5ee?style=flat-square&logo=mongodb&logoColor=2e7d5a"/>
+        <img src="https://img.shields.io/badge/TypeScript-e6f1fb?style=flat-square&logo=typescript&logoColor=185fa5"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 Time-Series Forecasting</h3>
+      <p>Compared ARIMA, Prophet & LSTM architectures on raw historical data with feature engineering.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-fce8f5?style=flat-square&logo=python&logoColor=c45e9e"/>
+        <img src="https://img.shields.io/badge/ARIMA-ede8fe?style=flat-square&logoColor=6b4fb8"/>
+        <img src="https://img.shields.io/badge/Prophet-e4f5ee?style=flat-square&logoColor=2e7d5a"/>
+        <img src="https://img.shields.io/badge/LSTM-fce8f5?style=flat-square&logo=tensorflow&logoColor=c45e9e"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -137,13 +198,13 @@ Here are some ideas to get you started:
 ## ✦ GitHub stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shiwangisinha&theme=default&background=fdf6fb&ring=c45e9e&fire=e8a0c8&currStreakLabel=a07898&border=f0d6ea"/>
+  <img src="https://streak-stats.demolab.com?user=Sinha-Codes3579&theme=default&background=fdf6fb&ring=c45e9e&fire=e8a0c8&currStreakLabel=a07898&border=f0d6ea"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiwangisinha&show_icons=true&title_color=c45e9e&icon_color=e8a0c8&text_color=5a3a58&bg_color=fdf6fb&border_color=f0d6ea&count_private=true&cache_seconds=86400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sinha-Codes3579&show_icons=true&title_color=c45e9e&icon_color=e8a0c8&text_color=5a3a58&bg_color=fdf6fb&border_color=f0d6ea&count_private=true&cache_seconds=86400"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwangisinha&layout=compact&title_color=c45e9e&text_color=5a3a58&bg_color=fdf6fb&border_color=f0d6ea&cache_seconds=86400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinha-Codes3579&layout=compact&title_color=c45e9e&text_color=5a3a58&bg_color=fdf6fb&border_color=f0d6ea&cache_seconds=86400"/>
 </p>
 
 ---

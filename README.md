@@ -218,9 +218,3 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinha-Codes3579&layout=compact&title_color=c45e9e&text_color=5a3a58&bg_color=fdf6fb&border_color=f0d6ea&cache_seconds=86400"/>
 </p>
 
----
-
-<p align="center"><i>thanks for stopping by ♡ — let's build something that matters</i></p>
-
-<!-- Bottom wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c45e9e&height=80&section=footer" width="100%"/>

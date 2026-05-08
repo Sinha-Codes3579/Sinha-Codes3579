@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![Shiwangi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sinha-Codes3579&show_icons=true&theme=radical&rank_icon=default)
 
 <!-- Header wave -->
-<img src="https://github-readme-stats.vercel.app/api?username=shiwangisinha&show_icons=true&title_color=c45e9e&icon_color=e8a0c8&text_color=5a3a58&bg_color=fdf6fb&border_color=f0d6ea&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shiwangisinha&show_icons=true&title_color=c45e9e&icon_color=e8a0c8&text_color=5a3a58&bg_color=fdf6fb&border_color=f0d6ea&hide_border=false&count_private=true&cache_seconds=86400&v=2"/>
 
 <!-- Visitor counter -->
 <p align="center">

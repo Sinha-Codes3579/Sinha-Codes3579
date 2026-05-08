@@ -127,7 +127,7 @@ Here are some ideas to get you started:
 ## ✦ GitHub stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shiwangisinha&theme=default&background=fdf6fb&ring=c45e9e&fire=e8a0c8&currStreakLabel=a07898&border=f0d6ea"/>
+  <img src="https://streak-stats.demolab.com?user=Sinha-Codes3579&theme=default&background=fdf6fb&ring=c45e9e&fire=e8a0c8&currStreakLabel=a07898&border=f0d6ea"/>
 </p>
 
 <p align="center">

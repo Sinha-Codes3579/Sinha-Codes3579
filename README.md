@@ -113,7 +113,7 @@ Here are some ideas to get you started:
 
 **Backend & Tools**
 
-![Spring Boot](https://img.shields.io/badge/Spring Boot-e4f5ee?style=flat-square&logo=springboot&logoColor=2e7d5a)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-e4f5ee?style=flat-square&logo=springboot&logoColor=2e7d5a)
 ![FastAPI](https://img.shields.io/badge/FastAPI-e4f5ee?style=flat-square&logo=fastapi&logoColor=2e7d5a)
 ![Node.js](https://img.shields.io/badge/Node.js-e4f5ee?style=flat-square&logo=nodedotjs&logoColor=2e7d5a)
 ![Docker](https://img.shields.io/badge/Docker-e6f1fb?style=flat-square&logo=docker&logoColor=185fa5)

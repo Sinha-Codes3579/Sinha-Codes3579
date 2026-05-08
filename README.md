@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 ![Shiwangi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sinha-Codes3579&show_icons=true&theme=radical&rank_icon=default)
 
 <!-- Top wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c45e9e&height=130&text=hola+!+I+am+Shiwangi&fontColor=ffffff&fontSize=30&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c45e9e&height=130&text=hola+!+I+am+Shiwangi+,+ +welcome+to+my+little+tech+corner&fontColor=ffffff&fontSize=30&fontAlignY=65" width="100%"/>
 
 <!-- Visitor counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shiwangisinha&label=Profile+Visits&color=c45e9e&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Sinha-Codes3579&label=Profile+Visits&color=c45e9e&style=flat"/>
 </p>
 
 <!-- Tagline -->

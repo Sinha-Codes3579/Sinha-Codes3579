@@ -131,9 +131,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiwangisinha&show_icons=true&title_color=c45e9e&icon_color=e8a0c8&text_color=5a3a58&bg_color=fdf6fb&border_color=f0d6ea&count_private=true&cache_seconds=86400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sinha-Codes3579&show_icons=true&title_color=c45e9e&icon_color=e8a0c8&text_color=5a3a58&bg_color=fdf6fb&border_color=f0d6ea&count_private=true&cache_seconds=86400"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwangisinha&layout=compact&title_color=c45e9e&text_color=5a3a58&bg_color=fdf6fb&border_color=f0d6ea&cache_seconds=86400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinha-Codes3579&layout=compact&title_color=c45e9e&text_color=5a3a58&bg_color=fdf6fb&border_color=f0d6ea&cache_seconds=86400"/>
 </p>
 
 ---

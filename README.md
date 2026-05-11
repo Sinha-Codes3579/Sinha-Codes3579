@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Profile Visits](https://komarev.com/ghpvc/?username=Sinha-Codes3579&label=Profile+Visits&color=800080&style=flat)
 
 <!-- Top wave header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=c45e9e&height=140&text=✿+hola+!+I+am+Shiwangi+,+welcome+to+my+tech+corner+✿&fontColor=ffffff&fontSize=22&fontAlignY=65" width="100%"/>
